@@ -15,8 +15,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
+  padding: 10px;
   width: 8%;
+}
+
+main {
+  display: flex;
 }
 
 .Pantry {
